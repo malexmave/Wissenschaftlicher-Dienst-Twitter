@@ -1,0 +1,2 @@
+feedparser>=5.2
+python-twitter>=3.2
